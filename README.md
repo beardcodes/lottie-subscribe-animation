@@ -9,7 +9,7 @@ A subscribe animation using [lottie files] (https://lottiefiles.com/)
 
 ### Screenshot
 
-<img src="/images/lottie Subscribe.png" alt="">
+<img src="/images/lottie-Subscribe.png" alt="">
 
 ### Links
 
